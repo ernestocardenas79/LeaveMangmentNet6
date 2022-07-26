@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.2.32630.192
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "LeaveMangment.Web", "LeaveMangment.Web\LeaveMangment.Web.fsproj", "{787837A4-1543-4D03-B60A-D4135603DDA2}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeaveManagment.W3b", "LeaveManagment.W3b\LeaveManagment.W3b.csproj", "{7AAB52F1-3EC7-4F80-B823-C4E06D1EFB22}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +11,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{787837A4-1543-4D03-B60A-D4135603DDA2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{787837A4-1543-4D03-B60A-D4135603DDA2}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{787837A4-1543-4D03-B60A-D4135603DDA2}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{787837A4-1543-4D03-B60A-D4135603DDA2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7AAB52F1-3EC7-4F80-B823-C4E06D1EFB22}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7AAB52F1-3EC7-4F80-B823-C4E06D1EFB22}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7AAB52F1-3EC7-4F80-B823-C4E06D1EFB22}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7AAB52F1-3EC7-4F80-B823-C4E06D1EFB22}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
