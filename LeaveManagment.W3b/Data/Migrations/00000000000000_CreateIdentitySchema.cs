@@ -1,6 +1,5 @@
 ﻿using Microsoft.EntityFrameworkCore.Metadata;
 using Microsoft.EntityFrameworkCore.Migrations;
-using System;
 
 namespace LeaveManagment.W3b.Data.Migrations
 {
